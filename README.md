@@ -1,2 +1,9 @@
 # run-aspnetcore-spa-realworld
-Implementation of run-aspnetcore-spa repository
+This repository is under development. It is not finished yet. It will include eCommerce Real world example of run-aspnetcore-spa repository based application.
+
+identity
+CQRS
+Event Sourcing
+MedatR, Autofac, FluentValidator, AutoMapper
+swagger
+use case design
